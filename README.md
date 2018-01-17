@@ -1,1 +1,1 @@
-# javascript-browser-game
+# Javascript Browser Game Tutorial
